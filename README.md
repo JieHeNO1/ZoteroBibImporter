@@ -112,4 +112,4 @@ A: 脚本已内置自动重试和延迟，遇到 429 状态码会等待后重试
 欢迎提交 Issue 和 Pull Request！如果你有好的 PDF 下载源或改进想法，请随时参与。
 
 📄 许可
-MIT License © 2025 [JieHeNO1]
+MIT License © 2026 [JieHeNO1]
