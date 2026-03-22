@@ -1,0 +1,7 @@
+# .gitignore 内容示例
+.env.example
+output/
+bibs/genbibs/
+__pycache__/
+*.pyc
+.DS_Store

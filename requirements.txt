@@ -1,0 +1,5 @@
+pyzotero
+bibtexparser
+requests
+python-dotenv
+PyPDF2   # 可选，用于 PDF 验证，不安装也不影响主要功能
